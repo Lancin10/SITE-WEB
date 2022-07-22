@@ -8,7 +8,7 @@ class ProjectList extends Component {
         projects:projectsData,
         radios: [
             {id:1, value: "Python"},
-            {id:2, value: "R"},
+            {id:2, value: "RShiny"},
             {id:3, value: "Dataviz"},
             {id:4, value: "BI"},
             {id:5, value: "Scraping"},
