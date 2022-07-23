@@ -76,7 +76,7 @@ export const projectsData = [
   ,
   détail:
     "Une association de critiques de films souhaite développer une page web qui affiche les films les mieux notés."/
-    "Elle nous fournit pour cela un repository permettant de simuler en local l'appel à une API (Application Programming Interface)."/
+    "Elle nous fournit pour cela un repository permettant de simuler en local l'appel à une API."/
     "Nous y ferons donc appel pour que les classements de films s'actualisent."/
     "La page web devra afficher successivement :"/
     "le film le mieux classé avec son affiche, son titre et son résumé"/
