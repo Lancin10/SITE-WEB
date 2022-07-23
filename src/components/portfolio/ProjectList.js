@@ -11,7 +11,7 @@ class ProjectList extends Component {
             {id:2, value: "RShiny"},
             {id:3, value: "Dataviz"},
             {id:4, value: "BI"},
-            {id:5, value: "Scraping"},
+            {id:5, value: "ETL"},
         ],
         selectedRadio:"",
     };
