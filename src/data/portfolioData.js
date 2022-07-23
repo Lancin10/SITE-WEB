@@ -9,7 +9,7 @@ export const projectsData = [
     resume: "Réalisation de ce site personnel à l'aide de React",
     detail:"",
     img: "./media/projet-L1-prime.PNG",
-    link: "https://github.com/Lancin10/site_personnel",
+    link: "https://github.com/Lancin10/SITE-WEB",
   },
  
   
@@ -62,7 +62,7 @@ export const projectsData = [
     detail:
     "",
     img: "./media/projet-L5.png",
-    link: "https://github.com/S0Imyr/Projet-L5",
+    link: "https://github.com/Lancin10/MachineLearning-App-RShiny",
     
   },
   {
