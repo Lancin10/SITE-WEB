@@ -62,7 +62,7 @@ export const projectsData = [
     detail:
     "",
     img: "./media/projet-L5.png",
-    link: "https://github.com/Lancin10/MachineLearning-App-RShiny",
+    link: "https://github.com/Lancin10/MachineLearning-App-With-RShiny",
     
   },
   {
