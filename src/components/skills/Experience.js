@@ -7,7 +7,7 @@ const Experience = () => {
             <div className="Emploi_CAB">
                 <h4><i className="fas fa-briefcase"></i> MOE & Data Scientist</h4>
                 <h5>2021 - Aujourd'hui</h5>
-        <div onclick="location.href='http://www.example.com';" style="cursor:pointer;"></div>
+        <div data-link="http://www.google.at/">Some content in the div which is arbitrary</div>
             </div>
 
             <div className="Emploi_ANFR">
