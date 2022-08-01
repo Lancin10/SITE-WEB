@@ -110,7 +110,7 @@ export const projectsData = [
     python_packages: ["Pandas", "Jupyter"],
     resume: "Il s'agit de réaliser la Datavisualisation avec différents jeux de données (économiques, assurance, santé...) à l'aide de la bibliothèque Plotly de Python. La réalisation de ce projet a été faite sous Anaconda (Jupyter Notebook).",
     detail:"",
-    img: "./media/projet-L6.png",
+    img: "./media/projet-L6.JPEG",
     link: "https://github.com/Lancin10/Dataviz_project_python_Plotly",
   },
   
