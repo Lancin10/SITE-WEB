@@ -103,15 +103,14 @@ export const projectsData = [
   
   {
     id: 1,
-    title: "ETL project",
+    title: "Dataviz Project",
     date: "Juillet 2022",
     languages: ["Python", "Dataviz", "BI"],
     languagesIcons:["fab fa-python", "fab fa-jupyter", "fab fa-Anaconda"],
     python_packages: ["Pandas", "Jupyter"],
-    resume: "Il s'agit de réaliser la Datavisualisation de différents jeux de données avec(économiques, assurance, chômage...) à l'aide de la bibliothèque Plotly de Python. La réalisation de ce projet a été faite sous Anaconda (Jupyter Notebook)",
+    resume: "Il s'agit de réaliser la Datavisualisation avec différents jeux de données (économiques, assurance, santé...) à l'aide de la bibliothèque Plotly de Python. La réalisation de ce projet a été faite sous Anaconda (Jupyter Notebook).",
     detail:"",
-    img: "./media/projet-L6.
-    ",
+    img: "./media/projet-L6.png",
     link: "https://github.com/Lancin10/Dataviz_project_python_Plotly",
   },
   
