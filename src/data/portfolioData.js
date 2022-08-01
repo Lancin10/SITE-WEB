@@ -51,6 +51,18 @@ export const projectsData = [
     link: "https://github.com/Lancin10/BUSINESS-APP-WITH-RSHINY",
   },
   
+  {
+    id: 1,
+    title: "ETL project",
+    date: "Juillet 2022",
+    languages: ["Postgresql", "Python", "ETL", "PGAdmin "],
+    languagesIcons:["fab fa-python", "fab fa-jupyter", "fab fa-PostgreSql"],
+    python_packages: ["Pandas", "Jupyter"],
+    resume: "Il s'agit de mettre en place un ETL avec Python et Postgresql. Les données extraites à partir de fichier CSV ont été traitées et transformées grâce à la bibliothèque Pandas. Le transfert des données vers la BDD Posgresql a été réalisé via des requêtes sql.",
+    detail:"",
+    img: "./media/ETL_Process.jpg",
+    link: "https://github.com/Lancin10/ETL-With-Python-Sql",
+  },
   
   {
     id: 1,
@@ -88,18 +100,7 @@ export const projectsData = [
   link: "https://github.com/Lancin10/Scraping-With-Python",
 },
   
-  {
-    id: 1,
-    title: "ETL project",
-    date: "Juillet 2022",
-    languages: ["Postgresql", "Python", "ETL", "PGAdmin "],
-    languagesIcons:["fab fa-python", "fab fa-jupyter", "fab fa-PostgreSql"],
-    python_packages: ["Pandas", "Jupyter"],
-    resume: "Il s'agit de mettre en place un ETL avec Python et Postgresql. Les données extraites à partir de fichier CSV ont été traitées et transformées grâce à la bibliothèque Pandas. Le transfert des données vers la BDD Posgresql a été réalisé via des requêtes sql.",
-    detail:"",
-    img: "./media/ETL_Process.jpg",
-    link: "https://github.com/Lancin10/ETL-With-Python-Sql",
-  },
+  
   
   {
     id: 1,
