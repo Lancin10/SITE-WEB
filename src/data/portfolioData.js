@@ -101,4 +101,20 @@ export const projectsData = [
     link: "https://github.com/Lancin10/ETL-With-Python-Sql",
   },
   
+  {
+    id: 1,
+    title: "ETL project",
+    date: "Juillet 2022",
+    languages: ["Python", "Dataviz", "BI"],
+    languagesIcons:["fab fa-python", "fab fa-jupyter", "fab fa-Anaconda"],
+    python_packages: ["Pandas", "Jupyter"],
+    resume: "Il s'agit de réaliser la Datavisualisation de différents jeux de données avec(économiques, assurance, chômage...) à l'aide de la bibliothèque Plotly de Python. La réalisation de ce projet a été faite sous Anaconda (Jupyter Notebook)",
+    detail:"",
+    img: "./media/projet-L6.
+    ",
+    link: "https://github.com/Lancin10/Dataviz_project_python_Plotly",
+  },
+  
+  
+  
 ];
