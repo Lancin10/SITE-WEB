@@ -6,7 +6,7 @@ class Languages extends Component {
         languages: [
             {id: 1, value: "R", xp:8.8},
             {id: 2, value: "Python", xp:7},
-            {id: 3, value: "VBA", xp:7},
+            {id: 3, value: "SQL", xp:7},
             {id: 4, value: "Pyspark", xp:6.5},
         ],
         
