@@ -21,7 +21,7 @@ const OtherSkills = () => {
                     <span> Programmation Orienté Objet</span>
                     </li>
                     <li> <i className="fas fa-check-square"></i>
-                    <span> Docker</span>
+                    <span> VBA</span>
                     </li>
                     <li> <i className="fas fa-check-square"></i>
                     <span> AWS</span>
