@@ -84,7 +84,7 @@ export const projectsData = [
   languages: ["Python", "SCRAPING"],
   languagesIcons:["fab fa-python"],
   python_packages: ["requests", "BeautifoulSoup"],
-  resume: "Le projet consiste à scraper une bibliothèque 1000 livres répartis en catégories. Le programme doit créer un fichier csv par catégorie avec pour chaque livre, l'ensemble des données disponibles (prix, description, date, auteur,...). Enfin un dossier image par catégorie doit stocker ces images au nom du livre."
+  resume: "Le projet consiste à scraper une bibliothèque de 1000 livres répartis en catégories. Le programme doit créer un fichier csv par catégorie avec pour chaque livre, l'ensemble des données disponibles (prix, description, date, auteur,...). Enfin un dossier image par catégorie doit stocker ces images au nom du livre."
   ,
   détail:
     "Une association de critiques de films souhaite développer une page web qui affiche les films les mieux notés."/
@@ -109,7 +109,7 @@ export const projectsData = [
     languages: ["Python", "Dataviz", "BI"],
     languagesIcons:["fab fa-python", "fab fa-jupyter", "fab fa-Anaconda"],
     python_packages: ["Pandas", "Jupyter"],
-    resume: "Il s'agit de réaliser la Datavisualisation sur différents jeux de données (économiques, assurance, santé...) en utilisant la bibliothèque Plotly de Python. La réalisation de ce projet a été faite sous Anaconda (Jupyter Notebook).",
+    resume: "Il s'agit de réaliser la Datavisualisation sur différents jeux de données (économiques, assurance, santé...) en utilisant la bibliothèque Plotly de Python. Ce projet est réalisé sous Anaconda (Jupyter Notebook).",
     detail:"",
     img: "./media/projet-L6.jfif",
     link: "https://github.com/Lancin10/Dataviz_project_python_Plotly",
