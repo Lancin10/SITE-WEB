@@ -108,6 +108,20 @@ export const projectsData = [
     date: "Juillet 2022",
     languages: ["Python", "Dataviz", "BI"],
     languagesIcons:["fab fa-python", "fab fa-jupyter", "fab fa-Anaconda"],
+    python_packages: ["Pandas", "matplotlib", "Scikit-Learn", "Jupyter"],
+    resume: "Il s'agit d'implémenter pour l'entreprise Safran, un modèle de machine learning qui doit permettre d'identifier les défauts géométriques dans un rouet de moteur d'avion. 
+    detail:"",
+    img: "./media/projet-L9.PNG",
+    link: "https://github.com/Lancin10/Machine-Learning-project-With-Python",
+  },
+  
+  
+  {
+    id: 1,
+    title: "Academic Project",
+    date: "Février 2019",
+    languages: ["Python", "Dataviz", "BI", ],
+    languagesIcons:["fab fa-python", "fab fa-jupyter", "fab fa-Anaconda"],
     python_packages: ["Pandas", "Jupyter"],
     resume: "Il s'agit de réaliser la Datavisualisation sur différents jeux de données (économiques, assurance, santé...) en utilisant la bibliothèque Plotly de Python. Ce projet est réalisé sous Anaconda (Jupyter Notebook).",
     detail:"",
