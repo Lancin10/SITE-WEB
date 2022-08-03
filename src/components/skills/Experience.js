@@ -29,7 +29,7 @@ const Experience = () => {
                 <h5>2016</h5>
             </div>
             <div className="Double_licence">
-                <h4><i className="fas fa-graduation-cap"></i> Double Diplôme Licence Mathématiques et Physique</h4>
+                <h4><i className="fas fa-graduation-cap"></i> Licence double diplôme Mathématiques et Physique</h4>
                 <h5>2015</h5>
             </div>
 
