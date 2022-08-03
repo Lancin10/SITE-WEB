@@ -109,7 +109,7 @@ export const projectsData = [
     python_packages: ["Pandas", "matplotlib", "Scikit-Learn", "Jupyter"],
     resume: "Il s'agit d'implémenter pour l'entreprise Safran, un modèle de machine learning qui doit permettre d'identifier les défauts géométriques dans un rouet de moteur d'avion.", 
     detail:"",
-    img: "./media/projet-L8.png",
+    img: "./media/projet-L9.png",
     link: "https://github.com/Lancin10/Machine-Learning-project-With-Python",
   },
   
