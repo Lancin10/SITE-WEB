@@ -104,7 +104,7 @@ export const projectsData = [
     id: 1,
     title: "Academic Project",
     date: "Février 2019",
-    languages: ["Python", "Dataviz", "BI", ],
+    languages: ["Python", "Dataviz", ],
     languagesIcons:["fab fa-python", "fab fa-jupyter", "fab fa-Anaconda"],
     python_packages: ["Pandas", "matplotlib", "Scikit-Learn", "Jupyter"],
     resume: "Il s'agit d'implémenter pour l'entreprise Safran, un modèle de machine learning qui doit permettre d'identifier les défauts géométriques dans un rouet de moteur d'avion.", 
