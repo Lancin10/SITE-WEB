@@ -109,8 +109,8 @@ export const projectsData = [
     python_packages: ["Pandas", "Jupyter"],
     resume: "Il s'agit de réaliser la Datavisualisation sur différents jeux de données (économiques, assurance, santé...) en utilisant la bibliothèque Plotly de Python. Ce projet est réalisé sous Anaconda (Jupyter Notebook).",
     detail:"",
-    img: "./media/projet-L6.jfif",
-    link: "https://github.com/Lancin10/Dataviz_project_python_Plotly",
+    img: "./media/projet-L9.png",
+    link: "https://github.com/Lancin10/Machine-Learning-project-With-Python",
   },
   
   {
@@ -122,8 +122,8 @@ export const projectsData = [
     python_packages: ["Pandas", "matplotlib", "Scikit-Learn", "Jupyter"],
     resume: "Il s'agit d'implémenter pour l'entreprise Safran, un modèle de machine learning qui doit permettre d'identifier les défauts géométriques dans un rouet de moteur d'avion. 
     detail:"",
-    img: "./media/projet-L9.png",
-    link: "https://github.com/Lancin10/Machine-Learning-project-With-Python",
+    img: "./media/projet-L6.jfif",
+    link: "https://github.com/Lancin10/Dataviz_project_python_Plotly",
   },
   
   
