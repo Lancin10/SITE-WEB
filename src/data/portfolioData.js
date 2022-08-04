@@ -6,7 +6,7 @@ export const projectsData = [
     skills: ["Réaliser un site avec React", "Héberger un site avec Netlify"],
     languages: ["React", "Javascript", "Sass", "AWS", "Netlify"],
     languagesIcons:["fab fa-react", "fab fa-sass", "fab fa-aws", 'fab fa-css3-alt'],
-    resume: "Réalisation de ce site personnel à l'aide de React",
+    resume: "Réalisation de ce site web personnel à l'aide de React",
     detail:"",
     img: "./media/projet-L1-prime.PNG",
     link: "https://github.com/Lancin10/SITE-WEB",
