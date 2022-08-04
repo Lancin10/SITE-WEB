@@ -102,7 +102,7 @@ export const projectsData = [
   
   {
     id: 1,
-    title: "Academic Project",
+    title: "Academic project",
     date: "Février 2019",
     languages: ["Python", "Dataviz", ],
     languagesIcons:["fab fa-python", "fab fa-jupyter", "fab fa-Anaconda"],
@@ -115,7 +115,7 @@ export const projectsData = [
   
   {
     id: 1,
-    title: "Dataviz Project",
+    title: "Dataviz project",
     date: "Juillet 2022",
     languages: ["Python", "Dataviz", "BI"],
     languagesIcons:["fab fa-python", "fab fa-jupyter", "fab fa-Anaconda"],
