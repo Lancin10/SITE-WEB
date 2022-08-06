@@ -96,7 +96,7 @@ export const projectsData = [
     "pour chacune des trois catégories choisies, le classement des 7 meilleurs films"/
     "des fenêtres modales devront s'ouvrir lorsqu'on clique sur les affiches des films"/
     "ces fenêtres modales donnent les principales informations des films.",
-  img: "./media/projet-L10.png",
+  img: "./media/projet-L15.jpeg",
   link: "https://github.com/Lancin10/Scraping-With-Python",
 },
   
