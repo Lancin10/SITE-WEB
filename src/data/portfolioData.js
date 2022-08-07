@@ -70,7 +70,7 @@ export const projectsData = [
     date: "Décembre 2021",
     languages: ["R", "RShiny", "BI", "Dataviz",],
     languagesIcons:["fab fa-r-project"],
-    resume: "Il s'agit de développer une application de Machine Learning avec le framework RShiny. L'application doit permettre aux utilisateurs de faire l'analyse exploratoire de leurs données et aussi d'utiliser des algorithmes supervisés et non supervisés de leur choix pour faire leur prédiction. L'application est déployée sur shinyapps.io et peut être utilisée sur le lien suivant: https://lasso1.shinyapps.io/Application_Machine_Learning/",
+    resume: "Il s'agit de développer une application de Machine Learning avec le framework RShiny. L'application doit permettre aux utilisateurs de faire l'analyse exploratoire de leurs données et aussi d'utiliser des algorithmes supervisés et non supervisés de leur choix pour faire leur prédiction. L'application est déployée sur shinyapps.io et peut être utilisée sur le lien suivant: https://lancin10.shinyapps.io/Application_Machine_Learning/",
     detail:
     "",
     img: "./media/projet-L5.png",
