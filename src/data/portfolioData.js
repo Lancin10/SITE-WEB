@@ -127,7 +127,18 @@ export const projectsData = [
   },
   
   
-  
+  {
+    id: 1,
+    title: "KPI Dashboard Project",
+    date: "Aout 2022",
+    languages: ["Python", "Dataviz", "BI"],
+    languagesIcons:["fab fa-python", "fab fa-VS Code", "fab fa-Anaconda"],
+    python_packages: ["Pandas", "Plotly", "streamlit"],
+        resume: "Il s'agit de développer un tableau de bord dynamique de KPI à partir des données de ventes d'un supermarché. Le tableau de bord a été développé avec la library streamlit de Python",
+    detail:"",
+    img: "./media/projet-L6.jfif",
+    link: "https://github.com/Lancin10/Dataviz_project_python_Plotly",
+  },
   
   
 ];
