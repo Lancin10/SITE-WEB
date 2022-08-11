@@ -134,7 +134,7 @@ export const projectsData = [
     languages: ["Python", "Dataviz", "BI"],
     languagesIcons:["fab fa-python", "fab fa-VS Code", "fab fa-Anaconda"],
     python_packages: ["Pandas", "Plotly", "streamlit"],
-        resume: "Il s'agit de développer un tableau de bord dynamique de KPI à partir des données de ventes d'un supermarché. Le développement a été réalisé avec la library streamlit de Python",
+        resume: "Il s'agit de développer un tableau de bord dynamique de KPI à partir des données de ventes d'un supermarché. Le développement a été réalisé avec la library streamlit de Python.",
     detail:"",
     img: "./media/projet-L11.PNG",
     link: "https://github.com/Lancin10/Dashboard-kpi-python-streamlit",
