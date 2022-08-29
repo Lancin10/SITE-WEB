@@ -70,7 +70,7 @@ export const projectsData = [
     date: "Décembre 2021",
     languages: ["R", "RShiny", "BI", "Dataviz",],
     languagesIcons:["fab fa-r-project"],
-    resume: "Il s'agit de développer une application de Machine Learning avec le framework RShiny. L'application doit permettre aux utilisateurs de faire l'analyse exploratoire de leurs données et aussi d'utiliser des algorithmes supervisés et non supervisés de leur choix pour faire leur prédiction. L'application est déployée sur shinyapps.io et peut être utilisée sur le lien suivant: https://lancin10.shinyapps.io/Application_Machine_Learning/",
+    resume: "Le projet consiste à développer une application de Machine Learning avec le framework RShiny. L'application doit permettre aux utilisateurs de faire l'analyse exploratoire de leurs données et aussi d'utiliser des algorithmes supervisés et non supervisés de leur choix pour faire leur prédiction. L'application est déployée sur shinyapps.io et peut être utilisée sur le lien suivant: https://lancin10.shinyapps.io/Application_Machine_Learning/",
     detail:
     "",
     img: "./media/projet-L5.png",
@@ -134,7 +134,7 @@ export const projectsData = [
     languages: ["Python", "Dataviz", "BI"],
     languagesIcons:["fab fa-python", "fab fa-VS Code", "fab fa-Anaconda"],
     python_packages: ["Pandas", "Plotly", "streamlit"],
-        resume: "Il s'agit de développer un tableau de bord dynamique de KPI à partir des données de ventes d'un supermarché. Le développement a été réalisé avec la library streamlit de Python.",
+        resume: "Le projet consiste à développer un tableau de bord dynamique de KPI à partir des données de ventes d'un supermarché. Le développement a été réalisé avec la library streamlit de Python.",
     detail:"",
     img: "./media/projet-L11.PNG",
     link: "https://github.com/Lancin10/Dashboard-kpi-python-streamlit",
