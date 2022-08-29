@@ -21,7 +21,7 @@ export const projectsData = [
     languages: ["Spark", "Python"],
     languagesIcons:["fab fa-python", "fab fa-jupyter", "fab fa-SPARK"],
     python_packages: ["K-Means", "MlLib", "Vectors", "findspark", "SparkSession"],
-    resume: "Il s'agit d'aider une grande entreprise technologique victime de piratages à identifier l'origine et le nombres des hackers. Heureusement, leurs ingénieurs légistes ont saisi des données précieuses sur les hacks, y compris des informations telles que l'heure de la session, les emplacements, la vitesse de frappe en wpm, etc. Ces données précieuses vont être explorées.",
+    resume: "Il s'agit d'aider une grande entreprise technologique victime de piratages à identifier l'origine et le nombre de hackers. Heureusement, leurs ingénieurs légistes ont saisi des données précieuses sur les hacks, y compris des informations telles que l'heure de la session, les emplacements, la vitesse de frappe en wpm, etc. Ces données précieuses vont être explorées.",
     detail:"",
     img: "./media/projet-L2.png",
     link: "https://github.com/Lancin10/Spark-Python-Pyspark",
