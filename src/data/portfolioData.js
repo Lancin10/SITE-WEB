@@ -3,7 +3,7 @@ export const projectsData = [
     id: 1,
     title: "Site personnel",
     date: "Juin 2022",
-    skills: ["Réaliser un site avec React", "Héberger un site avec Netlify"],
+    skills: ["Réaliser un site avec React", "Héberger un site avec Netlify et AWS"],
     languages: ["React", "Javascript", "Sass", "AWS", "Netlify"],
     languagesIcons:["fab fa-react", "fab fa-sass", "fab fa-aws", 'fab fa-css3-alt'],
     resume: "Réalisation de ce site web personnel à l'aide de React",
@@ -82,7 +82,7 @@ export const projectsData = [
   title: "Book scraping",
   date: "Août 2021",
   languages: ["Python", "SCRAPING"],
-  languagesIcons:["fab fa-python"],
+  languagesIcons:["fab fa-python", "fas fa-file-csv"],
   python_packages: ["requests", "BeautifoulSoup"],
   resume: "Le projet consiste à scraper une bibliothèque de 1000 livres répartis en catégories. Le programme doit créer un fichier csv par catégorie avec pour chaque livre, l'ensemble des données disponibles (prix, description, date, auteur,...). Enfin un dossier image par catégorie doit stocker ces images au nom du livre."
   ,
