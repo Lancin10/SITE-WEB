@@ -8,7 +8,7 @@ function Navigation() {
         <div className="id">
             <div className="idContent">
                 <img src="./media/profil.jpg" alt ="profil-pic" />
-                <h3>Lancine SERIFOU</h3>
+                <h3>Lancine SÉRIFOU</h3>
             </div>
         </div>
 
