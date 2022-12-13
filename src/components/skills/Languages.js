@@ -14,7 +14,7 @@ class Languages extends Component {
             {id: 1, value: "Shiny", xp:8.5},
             {id: 3, value: "Power BI", xp:7},
             {id: 2, value: "Pentaho", xp:7},
-            {id: 4, value: "Streamlit", xp:6.5},
+            {id: 4, value: "Streamlit", xp:.6.5},
         ]
     }
     render() {
