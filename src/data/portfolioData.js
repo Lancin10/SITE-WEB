@@ -82,7 +82,7 @@ export const projectsData = [
   title: "Book scraping",
   date: "Août 2021",
   languages: ["Python", "SCRAPING"],
-  languagesIcons:["fab fa-python", "fab fa-github", "fas fa-file-csv"],
+  languagesIcons:["fab fa-python", "fas fa-file-csv", "fab fa-github"],
   python_packages: ["requests", "BeautifoulSoup"],
   resume: "Le projet consiste à scraper une bibliothèque de 1000 livres répartis en catégories. Le programme doit créer un fichier csv par catégorie avec pour chaque livre, l'ensemble des données disponibles (prix, description, date, auteur,...). Enfin un dossier image par catégorie doit stocker ces images au nom du livre."
   ,
