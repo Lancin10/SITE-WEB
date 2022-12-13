@@ -13,7 +13,7 @@ function Home() {
         
             <p>Bonjour et bienvenue !</p>
             <div className="pdf">
-              <a href="./media/CV_Lancine_Serifou.PDF" download="CV_LANCINE_SERIFOU.PDF">Télécharger CV</a>
+              <a href="./media/CV_LANCINE_SERIFOU.PDF" download="CV_LANCINE_SERIFOU.PDF">Télécharger CV</a>
             </div>
           </div>
         </div>
