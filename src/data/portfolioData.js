@@ -118,7 +118,7 @@ export const projectsData = [
     title: "Dataviz project",
     date: "Juillet 2022",
     languages: ["Python", "Dataviz", "BI"],
-    languagesIcons:["fab fa-python", "fab fa-jupyter", "fas fa-file-csv"],
+    languagesIcons:["fab fa-python", "fab fa-github", "fas fa-file-csv"],
     python_packages: ["Pandas", "Jupyter"],
         resume: "Il s'agit de réaliser la Datavisualisation sur différents jeux de données (économiques, assurance, santé...) en utilisant la bibliothèque Plotly de Python. Ce projet est réalisé sous Anaconda (Jupyter Notebook).",
     detail:"",
