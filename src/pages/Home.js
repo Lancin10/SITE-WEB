@@ -8,7 +8,7 @@ function Home() {
         <Navigation/>
         <div className="homeContent">
           <div className="content">
-            <h1>Lancine Serifou</h1>
+            <h1>Lancine Sérifou</h1>
             <h2>Data Engineer - Data Scientist - BI</h2>
         
             <p>Bonjour et bienvenue !</p>
