@@ -132,7 +132,7 @@ export const projectsData = [
     title: "KPI Dashboard Project",
     date: "Aout 2022",
     languages: ["Python", "Dataviz", "BI"],
-    languagesIcons:["fab fa-python", "fab fa-VS Code", "fab fa-Anaconda", "fab fa-github"],
+    languagesIcons:["fab fa-python", "fab fa-Anaconda", "fab fa-github"],
     python_packages: ["Pandas", "Plotly", "streamlit"],
         resume: "Le projet consiste à développer un tableau de bord dynamique de KPI à partir des données de ventes d'un supermarché. Le développement a été réalisé avec la library streamlit de Python.",
     detail:"",
