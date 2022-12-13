@@ -56,7 +56,7 @@ export const projectsData = [
     title: "ETL project",
     date: "Juillet 2022",
     languages: ["Postgresql", "Python", "ETL", "PGAdmin "],
-    languagesIcons:["fab fa-python", "fab fa-github", "fas fa-file-csv"],
+    languagesIcons:["fab fa-python", "fas fa-file-csv"],
     python_packages: ["Pandas", "Jupyter"],
     resume: "Il s'agit de mettre en place un ETL avec Python et Postgresql. Les données extraites à partir de fichier CSV ont été traitées et transformées grâce à la bibliothèque Pandas. Le transfert des données vers la BDD Posgresql a été réalisé via des requêtes sql.",
     detail:"",
