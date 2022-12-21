@@ -54,7 +54,7 @@ export const projectsData = [
   {
     id: 1,
     title: "ETL project",
-    date: "Juillet 2022",
+    date: "Septembre 2020",
     languages: ["Postgresql", "Python", "ETL", "PGAdmin "],
     languagesIcons:["fab fa-python", "fas fa-file-csv"],
     python_packages: ["Pandas", "Jupyter"],
@@ -67,7 +67,7 @@ export const projectsData = [
   {
     id: 1,
     title: "Machine learning tool",
-    date: "Décembre 2021",
+    date: "Mai 2021",
     languages: ["R", "RShiny", "BI", "Dataviz",],
     languagesIcons:["fab fa-r-project"],
     resume: "Le projet consiste à développer une application de Machine Learning avec le framework RShiny. L'application doit permettre aux utilisateurs de faire l'analyse exploratoire de leurs données et aussi d'utiliser des algorithmes supervisés et non supervisés de leur choix pour faire leur prédiction. L'application est déployée sur shinyapps.io et peut être utilisée sur le lien suivant: https://lancin10.shinyapps.io/Application_Machine_Learning/",
@@ -80,7 +80,7 @@ export const projectsData = [
   {
   id: 1,
   title: "Book scraping",
-  date: "Août 2021",
+  date: "Octobre 2019",
   languages: ["Python", "SCRAPING"],
   languagesIcons:["fab fa-python", "fas fa-file-csv"],
   python_packages: ["requests", "BeautifoulSoup"],
@@ -116,7 +116,7 @@ export const projectsData = [
   {
     id: 1,
     title: "Dataviz project",
-    date: "Juillet 2022",
+    date: "Janvier 2020",
     languages: ["Python", "Dataviz", "BI"],
     languagesIcons:["fab fa-python"],
     python_packages: ["Pandas", "Jupyter"],
