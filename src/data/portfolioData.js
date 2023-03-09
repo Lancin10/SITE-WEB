@@ -113,7 +113,7 @@ export const projectsData = [
     link: "https://github.com/Lancin10/Machine-Learning-project-With-Python",
   },
   
-  {
+  /* {
     id: 1,
     title: "Dataviz project",
     date: "Janvier 2020",
@@ -125,7 +125,7 @@ export const projectsData = [
     img: "./media/projet-L6.jfif",
     link: "https://github.com/Lancin10/Dataviz_project_python_Plotly",
   },
-  
+  */
   
   {
     id: 1,
