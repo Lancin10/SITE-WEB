@@ -54,7 +54,7 @@ export const projectsData = [
   {
     id: 1,
     title: "ETL project",
-    date: "Septembre 2020",
+    date: "Juin 2021",
     languages: ["Postgresql", "Python", "ETL", "PGAdmin "],
     languagesIcons:["fab fa-python", "fas fa-file-csv"],
     python_packages: ["Pandas", "Jupyter"],
