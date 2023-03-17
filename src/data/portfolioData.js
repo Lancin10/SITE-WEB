@@ -129,7 +129,7 @@ export const projectsData = [
   
   {
     id: 1,
-    title: " Streamlit ",
+    title: " Streamlit app",
     date: "Aout 2022",
     languages: ["Python", "Dataviz", "BI"],
     languagesIcons:["fab fa-python", "fab fa-Anaconda"],
