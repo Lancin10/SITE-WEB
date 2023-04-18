@@ -7,7 +7,7 @@ class ProjectList extends Component {
     state = {
         projects:projectsData,
         radios: [
-            {id:0, value: "TOUT"},
+            {id:0, value: ""},
             {id:1, value: "Python"},
             {id:2, value: "RShiny"},
             {id:3, value: "Dataviz"},
