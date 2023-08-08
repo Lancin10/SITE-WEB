@@ -5,7 +5,7 @@ const Experience = () => {
         <div className="experience">
             <h3>Parcours</h3>
             <div className="Emploi_CAB">
-                <h4><i className="fas fa-briefcase"></i> Ingénieur DatA</h4>
+                <h4><i className="fas fa-briefcase"></i> Ingénieur Data</h4>
                 <h5>2021 - Aujourd'hui</h5>
             </div>
 
