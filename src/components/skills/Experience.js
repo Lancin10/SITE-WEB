@@ -22,8 +22,8 @@ const Experience = () => {
         {/* Double licence 
             <div className="Stage_ANFR">
                 <h4><i className="fas fa-briefcase"></i> Stage Ingénieur - Data Scientist</h4>
-                <h5>2019</h5>    */}
-            </div>
+                <h5>2019</h5>    
+            </div> */}
             
             <div className="Master_maths">
                 <h4><i className="fas fa-graduation-cap"></i> Master 1 en Mathématiques fondamentales</h4>
