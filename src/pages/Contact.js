@@ -32,13 +32,13 @@ function Contact() {
               </li>
               <li>
                 <i className="far fa-envelope"></i>
-                <CopyToClipboard text="serifou.lancine10@gmail.com">
+                <CopyToClipboard text="lancine.serifou10@gmail.com">
                   <span 
                     className="clickInput" 
                     onClick={()=>
                       { alert('Email copié')}}
                   >
-                  serifou.lancine10@gmail.com
+                  lancine.serifou10@gmail.com
                   </span>
                 </CopyToClipboard>
                 
