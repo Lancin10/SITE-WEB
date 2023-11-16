@@ -9,7 +9,7 @@ function Home() {
         <div className="homeContent">
           <div className="content">
             <h1>Lancine Sérifou</h1>
-            <h2>Développeur Data Analyst R</h2>
+            <h2>Développeur Data Analyst</h2>
         
             <p>Bonjour et bienvenue !</p>
             <div className="pdf">
